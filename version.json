@@ -1,6 +1,13 @@
 {
+<<<<<<< HEAD
   "version": "1.4",
   "url": "https://github.com/Ahmad-Z/86BIT/86BITMonitoringSetup.exe",
   "notes": "Auto-update support added."
 }
 
+=======
+  "version": "1.8",
+  "url": "https://github.com/Ahmad-Z/86BIT/raw/main/86BITMonitoringSetup.exe",
+  "notes": "Auto-update support added."
+}
+>>>>>>> cfa8cb58177e4307ef6cb3104f2b2a23f9556e32
